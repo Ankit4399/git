@@ -1,1 +1,6 @@
-this is a sample text
+git init
+git add filename
+git commit -m "any message"
+git remote add origin (https link)
+git push origin main
+git push -u origin main
